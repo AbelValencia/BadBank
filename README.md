@@ -1,1 +1,20 @@
 # BadBank
+
+## Description/Motivation: 
+ This is a bank application that helps people manage their bank accounts.  They can sign in to their accounts and keep track of their personal balance. They are also able to deposit and withdraw their money at any time and see all the operations they do in the past. The purpose of this project is to improve the experience of the typical bank users making it smoother and more convenient.
+
+## Installation Guidelines:
+The final version is not finished yet but to run this project you just going to copy and paste the URL (which I am going to put here in the future ) in your browser and the app will be ready to use! 
+
+Screenshots: 
+<img width="571" alt="Captura de Pantalla 2022-10-26 a la(s) 11 27 48" src="https://user-images.githubusercontent.com/77693396/198087020-05c21d94-c9d8-4e6f-a8c3-70a12481445a.png">
+
+## Technology used: 
+For this project, I used HTML, CSS, JavaScript, and React for the front end.
+And for the back end, I used nodejs, express, MongoDB, docker, and firebase.
+
+## Features: 
+Users can sign in with their email and password or by using google, within their accounts they can deposit and withdraw their money and keep track of their balance.
+
+## License: 
+MIT
