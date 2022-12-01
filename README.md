@@ -12,7 +12,7 @@ To run this project you just need to copy and paste this URL: https://bad-bank.o
 
 ## Technology used: 
 For this project, I used HTML, CSS, JavaScript, and React for the front end.
-And for the back end, I used nodejs, express, MongoDB, docker, and firebase.
+And for the back end, I used nodejs and firebase.
 
 ## Features: 
 Users can sign in with their email and password or by using google, within their accounts they can deposit and withdraw their money and keep track of their balance.
