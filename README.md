@@ -4,7 +4,7 @@
  This is a bank application that helps people manage their bank accounts.  They can sign in to their accounts and keep track of their personal balance. They are also able to deposit and withdraw their money at any time and see all the operations they do in the past. The purpose of this project is to improve the experience of the typical bank users making it smoother and more convenient.
 
 ## Installation Guidelines:
-The final version is not finished yet but to run this project you just need to copy and paste this URL: https://ricardo-valenciabankingapplication.s3.amazonaws.com/index.html in your browser and the app will be ready to use! 
+To run this project you just need to copy and paste this URL: https://bad-bank.onrender.com/login in your browser and the app will be ready to use! 
 
 <img width="571" alt="Captura de Pantalla 2022-10-26 a la(s) 11 27 48" src="https://user-images.githubusercontent.com/77693396/198087020-05c21d94-c9d8-4e6f-a8c3-70a12481445a.png">
 <img width="670" alt="Captura de Pantalla 2022-10-26 a la(s) 11 27 07" src="https://user-images.githubusercontent.com/77693396/198087328-9658ed65-6ba9-4924-9587-580fa96d74a1.png">
